@@ -1,5 +1,6 @@
 # CroppingTool
-A tool that detects and crops around a face in a user-uploaded photo.  Originally designed to crop passport photos according to [US Government specifications](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) because their [photo tool](https://tsg.phototool.state.gov/photo) sucks.
+A tool that detects and crops around a face in a user-uploaded photo.  Originally designed to crop passport photos according to [US Government specifications](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) because their [photo tool](https://tsg.phototool.state.gov/photo) sucks.\
+[Icon](assets/passport,ico) by [yoyonpujiono](https://www.flaticon.com/authors/yoyonpujiono) on [Flaticon.com](flaticon.com).
 
 ## Features
 - Allows users to use their own photos
